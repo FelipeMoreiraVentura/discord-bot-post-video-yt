@@ -55,6 +55,8 @@ Na primeira execução o bot criará automaticamente `token.json`.
 ---
 
 ## 5️⃣ Executar o bot
+Em main.py mude o valor da variavel ID_DO_CANAL_MONITORADO para o id do sue canal
+
 ```bash
 python main.py
 ```
